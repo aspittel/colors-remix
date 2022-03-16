@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-remix-staging-152727-authRole",
+      "UnauthRoleArn": "arn:aws:iam::000691573582:role/amplify-remix-staging-152727-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::000691573582:role/amplify-remix-staging-152727-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-remix-staging-152727-deployment",
+      "UnauthRoleName": "amplify-remix-staging-152727-unauthRole",
+      "StackName": "amplify-remix-staging-152727",
+      "StackId": "arn:aws:cloudformation:us-west-2:000691573582:stack/amplify-remix-staging-152727/9664a890-a53d-11ec-a2ad-0a4730b889ad",
+      "AmplifyAppId": "dt6csvtoam8ci"
+    }
+  }
+}
